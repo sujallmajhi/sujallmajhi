@@ -8,6 +8,7 @@
 - 📫 How to reach me **sujalofficial9804016954@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/sujal-majhi-a13281339/
 <p align="left">
 </p>
 
