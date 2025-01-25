@@ -8,12 +8,14 @@
 ---
 
 ### 📫 How to reach me:  
-📧 **Email**: [sujalofficial9804016954@gmail.com](mailto:sujalofficial9804016954@gmail.com)  
+📧 **Email**: [sujalofficial9804016954@gmail.com](mailto:sujalofficial9804016954@gmail.com)
 
 ---
 
 ### Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/sujal-majhi-a13281339/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-majhi-a13281339/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalofficial9804016954@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujallmajhi)
 
 ---
 
