@@ -7,8 +7,8 @@
 
 ---
 
-### 📫 How to reach me:  
-📧 **Email**: [sujalofficial9804016954@gmail.com](mailto:sujalofficial9804016954@gmail.com)
+### About Me
+I’m a passionate Computer Engineering student with a strong focus on software development. I specialize in building web applications using Django, leveraging its powerful features to create efficient and scalable solutions. With a solid foundation in coding and problem-solving, I thrive on tackling challenges and improving my skills through hands-on projects. As I continue my studies, I’m eager to expand my expertise and contribute to innovative tech solutions in the future.
 
 ---
 
