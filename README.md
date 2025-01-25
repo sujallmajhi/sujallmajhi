@@ -15,13 +15,14 @@ I’m a passionate Computer Engineering student with a strong focus on software 
 🔧 **Problem Solver**  
 📚 **Always Learning**
 
----
 
+---
 
 ### Connect with me:  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-majhi-a13281339/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalofficial9804016954@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujallmajhi)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071942222412)
 
 ---
 
