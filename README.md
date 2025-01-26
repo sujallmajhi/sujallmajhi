@@ -3,8 +3,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sujallmajhi&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sujallmajhi)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### About Me 🚀
@@ -57,8 +55,4 @@ I’m a passionate Computer Engineering student with a strong focus on software 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujallmajhi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujallmajhi&" alt="Streak Stats" />
 </p>
