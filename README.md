@@ -57,5 +57,5 @@ I’m a passionate Computer Engineering student with a strong focus on software 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujallmajhi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-GitHub Streaks 🔥
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujallmajhi&theme=highcontrast" alt="GitHub Streak" /> </p>
+GitHub Contributions 📊
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sujallmajhi&theme=react-dark&hide_border=true" alt="GitHub Contributions" /> </p>
