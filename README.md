@@ -60,5 +60,10 @@ Check out the languages I code with the most:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sujallmajhi&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10)
 
+### GitHub Trophies 🏆  
+Here are some GitHub achievements that I've earned:
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sujallmajhi&theme=dark&row=1&column=4)
+
 ---
 
