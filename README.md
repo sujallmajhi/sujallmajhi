@@ -13,7 +13,6 @@ I’m a passionate Computer Engineering student with a strong focus on software 
 🔧 **Problem Solver**  
 📚 **Always Learning**
 
-
 ---
 
 ### Connect with me:  
@@ -51,6 +50,15 @@ I’m a passionate Computer Engineering student with a strong focus on software 
 
 ---
 
-📈 Top Languages:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujallmajhi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p>
+### GitHub Stats 📊  
+Here are some of the highlights from my GitHub profile:
+
+![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujallmajhi&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical&border_radius=10)
+
+### Top Languages 🔥  
+Check out the languages I code with the most:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sujallmajhi&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10)
+
+---
 
