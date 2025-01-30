@@ -67,10 +67,3 @@ Here are some GitHub achievements that I've earned:
 
 ---
 
-### Streak Stats 🔥  
-Check out my current coding streak:
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sujallmajhi&theme=radical&border_radius=10)
-
----
-
