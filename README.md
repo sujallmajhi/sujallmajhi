@@ -18,4 +18,59 @@ I’m a passionate Computer Engineering student with a strong focus on software 
 ### Connect with me:  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-majhi-a13281339/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalofficial9804016954@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=
+[![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujallmajhi)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071942222412)
+
+---
+
+### Languages and Tools:
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### GitHub Stats 📊  
+Here are some of the highlights from my GitHub profile:
+
+![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujallmajhi&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical&border_radius=10)
+
+### Top Languages 🔥  
+Check out the languages I code with the most:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sujallmajhi&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10)
+
+### GitHub Trophies 🏆  
+Here are some GitHub achievements that I've earned:
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sujallmajhi&theme=dark&row=1&column=4)
+
+---
+
+### Streak Stats 🔥  
+Check out my current coding streak:
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sujallmajhi&theme=radical&border_radius=10)
+
+---
+
